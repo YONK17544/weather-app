@@ -1,0 +1,22 @@
+body{
+    background-color: greenyellow;
+}
+
+main{
+    margin-top: 200px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.row{
+    width: 1000px;
+    margin: 10px;
+}
+
+#search{
+    font-size: 25px;
+    padding: 10px;
+
+}
